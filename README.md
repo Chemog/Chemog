@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chemoget
+- 👋 Hi, I’m @Cheru
 - 👀 I’m interested in data analysis and software development.
 - 🌱 I’m currently learning coding with python.
 - 💞️ I’m looking to collaborate on various fields in computer science.
